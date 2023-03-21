@@ -1,0 +1,41 @@
+td{
+  border: 1px solid black;
+  padding: 10px;
+
+}
+table{
+  border-collapse: collapse;
+  margin-left: 550px;
+  margin-top: 50px;
+}
+h1{
+  text-align: center;
+}
+.parent{
+    margin-top: 50px;
+    margin-left: 350px;
+}
+.bt{
+  background-color: blue;
+  color: aliceblue;
+}
+.del{
+  background-color: blue;
+  color: aliceblue;
+}
+.tr{
+  background-color: blue;
+}
+.one{
+  background-color: blueviolet;
+}
+.two{
+  background-color: yellow;
+}
+
+/* tr:nth-child(even){
+  background-color: orangered;
+}
+tr:nth-child(odd){
+  background-color: blue;
+} */
